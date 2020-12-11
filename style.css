@@ -1,9 +1,9 @@
 body{background:#F5F6E2;padding:0;margin:0;}
 
-body>div{background-image:url("img/background.png");width:1250px;margin:0 auto;}
+body>div{background-image:url("img/background.png");width:2000px;margin:0 auto;float:center;}
 body>div>"(text-align:center;)
 
 article{padding:0 40px;}
-section{width:250px;margin:30px;float:left; background:#eeeeff; border: 1px solid #cccccc;border-radius:5px;}
-#first section{height:250px;}
-#second section{height:250px;}
+section{width:350px;margin:30px;float:left; background:#eeeeff; border: 1px solid #cccccc;border-radius:5px;}
+#first section{height:350px;}
+#second section{height:350px;}
